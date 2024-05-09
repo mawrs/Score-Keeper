@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh
+}
+
+.card {
+    width: 900px;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+    border-bottom: solid rgb(45, 45, 45) 2px;
+}
+
+#playingto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+label {
+    padding-right: 10px;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+span {
+    padding: 0px 10px;
+}
+
+.buttons {
+    padding: 40px 30px;
+}
